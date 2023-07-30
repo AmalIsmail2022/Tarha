@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Tarha/static/css/main.af504b53.css",
+    "main.js": "/Tarha/static/js/main.205cc2e3.js",
+    "static/media/slider55a.jpg": "/Tarha/static/media/slider55a.117f52de88e7cc6b8acc.jpg",
+    "static/media/slider1a.jpg": "/Tarha/static/media/slider1a.2878b3cf21ed07760b2e.jpg",
+    "static/media/slider2a.jpg": "/Tarha/static/media/slider2a.8cedfc273a612470bd0b.jpg",
+    "static/media/pro12.jpg": "/Tarha/static/media/pro12.59ee674b0defa8b7a1ff.jpg",
+    "static/media/pro11.jpg": "/Tarha/static/media/pro11.0c278a55d2f87a009de5.jpg",
+    "static/media/pro8.jpg": "/Tarha/static/media/pro8.f6e02cac3d92e010bdc8.jpg",
+    "static/media/pro6.jpg": "/Tarha/static/media/pro6.3c655e5dd7e36f7f7024.jpg",
+    "static/media/pro7.jpg": "/Tarha/static/media/pro7.d7ee44438bd859eaa939.jpg",
+    "static/media/pro13.jpg": "/Tarha/static/media/pro13.90394cd7aa14ff2230a5.jpg",
+    "static/media/pro14.jpg": "/Tarha/static/media/pro14.22b3ec77b12667552281.jpg",
+    "static/media/pro166.jpg": "/Tarha/static/media/pro166.767bb2108aa9a75e1f9f.jpg",
+    "static/media/fav.png": "/Tarha/static/media/fav.6eb6a3f08c1cc1db69b2.png",
+    "static/media/brand1.png": "/Tarha/static/media/brand1.039b22edee1b8ba15f0a.png",
+    "static/media/fav1.png": "/Tarha/static/media/fav1.2da572b0b3dbe515f908.png",
+    "static/media/brand4.png": "/Tarha/static/media/brand4.23c62ada98b1f85a77ff.png",
+    "static/media/prod11.jpg": "/Tarha/static/media/prod11.f864d5cd8f0e952e2e8a.jpg",
+    "static/media/brand2.png": "/Tarha/static/media/brand2.6246b8f2927456b1ec5f.png",
+    "static/media/car.png": "/Tarha/static/media/car.e1ebced655800f486b93.png",
+    "static/media/logo-white.png": "/Tarha/static/media/logo-white.c9f4eaf1e161e100ff7a.png",
+    "static/media/brand3.png": "/Tarha/static/media/brand3.bdfa2827fbe27dd51c37.png",
+    "static/media/logo.png": "/Tarha/static/media/logo.12303d99ad9dff3522e2.png",
+    "index.html": "/Tarha/index.html",
+    "main.af504b53.css.map": "/Tarha/static/css/main.af504b53.css.map",
+    "main.205cc2e3.js.map": "/Tarha/static/js/main.205cc2e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af504b53.css",
+    "static/js/main.205cc2e3.js"
+  ]
+}
