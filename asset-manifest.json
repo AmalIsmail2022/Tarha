@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Tarha/static/css/main.af504b53.css",
-    "main.js": "/Tarha/static/js/main.205cc2e3.js",
+    "main.js": "/Tarha/static/js/main.ea13cb0f.js",
     "static/media/slider55a.jpg": "/Tarha/static/media/slider55a.117f52de88e7cc6b8acc.jpg",
     "static/media/slider1a.jpg": "/Tarha/static/media/slider1a.2878b3cf21ed07760b2e.jpg",
     "static/media/slider2a.jpg": "/Tarha/static/media/slider2a.8cedfc273a612470bd0b.jpg",
@@ -25,10 +25,10 @@
     "static/media/logo.png": "/Tarha/static/media/logo.12303d99ad9dff3522e2.png",
     "index.html": "/Tarha/index.html",
     "main.af504b53.css.map": "/Tarha/static/css/main.af504b53.css.map",
-    "main.205cc2e3.js.map": "/Tarha/static/js/main.205cc2e3.js.map"
+    "main.ea13cb0f.js.map": "/Tarha/static/js/main.ea13cb0f.js.map"
   },
   "entrypoints": [
     "static/css/main.af504b53.css",
-    "static/js/main.205cc2e3.js"
+    "static/js/main.ea13cb0f.js"
   ]
 }
